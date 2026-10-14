@@ -1,4 +1,4 @@
-# Temped AI Auth
+# ai-app-builder-open-main
 
 A demonstration starter for secure application authentication using Amazon Cognito and an optional Claude-powered explanation of **sanitized** authentication events. It is a learning prototype, not a production-ready identity platform.
 
